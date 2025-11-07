@@ -1,0 +1,15 @@
+# Ignore Python & system files
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.tar
+*.gz
+*.egg-info/
+.DS_Store
+.env
+.venv/
+.venv/
+.venv/
